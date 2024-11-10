@@ -1,0 +1,40 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #f9e6df;
+  font-family: 'Ubuntu', sans-serif;
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  height: 100%;
+}
+
+a {
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+}
+
+a, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: #1b252e;
+}
+
+a:active {
+  color: #353a3f;
+}

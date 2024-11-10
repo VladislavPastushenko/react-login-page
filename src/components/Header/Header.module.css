@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+}
+
+.leftContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.logoImage {
+  height: 50px;
+  width: 50px;
+}

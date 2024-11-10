@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.wagon::after {
+  content: '.';
+  font-size: 20;
+  font-weight: 700;
+  margin: 0 10px;
+  color: black;
+}
+
+.wagon:last-child::after {
+  display: none;
+}
