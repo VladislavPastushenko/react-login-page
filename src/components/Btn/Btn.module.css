@@ -11,7 +11,11 @@
 }
 
 .button:hover:not(.disabled) {
-  background-color: #1b252e;
+  background-color: #3c454f;
+}
+
+.button:focus:not(.disabled) {
+  background-color: #3c454f;
 }
 
 .button:active:not(.disabled) {
