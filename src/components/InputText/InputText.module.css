@@ -5,7 +5,7 @@
 .label {
   display: block;
   color: #71777d;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 500;
   margin-bottom: 10px;
 }
@@ -14,7 +14,7 @@
   width: 100%;
   box-sizing: border-box;
   padding: 15px 20px;
-  font-size: 16px;
+  font-size: 1rem;
   border: 1px solid #d8d8d8;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -33,7 +33,7 @@
 
 .error {
   color: red;
-  font-size: 14px;
+  font-size: 0.875rem;
   margin-top: 6px;
   min-height: 16px;
 }

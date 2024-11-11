@@ -24,3 +24,8 @@
   width: 150px;
   height: 150px;
 }
+
+.loginSection {
+  min-width: 388px;
+  width: 30%;
+}

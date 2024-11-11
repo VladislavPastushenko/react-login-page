@@ -21,7 +21,7 @@ function LoginSection () {
       <div className={styles.section}>
         <DesignSection />
       </div>
-      <div className={[styles.section, styles.loginSection]}>
+      <div className={[styles.section, styles.loginSection].join(' ')}>
         <LoginForm />
       </div>
       <img
