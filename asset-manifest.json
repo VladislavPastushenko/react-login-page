@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/react-login-page/static/css/main.7039919d.css",
-    "main.js": "/react-login-page/static/js/main.cd5c033e.js",
+    "main.css": "/react-login-page/static/css/main.c1944664.css",
+    "main.js": "/react-login-page/static/js/main.78a1ba73.js",
+    "static/media/radio.svg": "/react-login-page/static/media/radio.1564c8b20969c58094c784516dcd52bd.svg",
+    "static/media/arrows.svg": "/react-login-page/static/media/arrows.54efafeb755e42570cb2a68cf695b6f3.svg",
+    "static/media/moon.svg": "/react-login-page/static/media/moon.6d12b9c9784cb4d143070bd3f220a05c.svg",
     "index.html": "/react-login-page/index.html",
-    "main.7039919d.css.map": "/react-login-page/static/css/main.7039919d.css.map",
-    "main.cd5c033e.js.map": "/react-login-page/static/js/main.cd5c033e.js.map"
+    "static/media/logo.svg": "/react-login-page/static/media/logo.b04108fa0339103634625914479d10ed.svg",
+    "main.c1944664.css.map": "/react-login-page/static/css/main.c1944664.css.map",
+    "main.78a1ba73.js.map": "/react-login-page/static/js/main.78a1ba73.js.map"
   },
   "entrypoints": [
-    "static/css/main.7039919d.css",
-    "static/js/main.cd5c033e.js"
+    "static/css/main.c1944664.css",
+    "static/js/main.78a1ba73.js"
   ]
 }
