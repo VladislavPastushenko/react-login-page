@@ -1,6 +1,7 @@
 import React from 'react'
 
-// Components
+// Images
+import radio from '../../images/radio.svg'
 
 // Styles
 import styles from './FreeUsage.module.css'
@@ -10,7 +11,7 @@ function FreeUsage () {
     <div className={styles.container}>
       <img
         className={styles.circleImage}
-        src='/radio.svg'
+        src={radio}
       />
       <div className={styles.textContainer}>
         <div className={styles.textFirstSection}>

@@ -3,6 +3,10 @@ import React from 'react'
 // Styles
 import styles from './LoginSection.module.css'
 
+// Images
+import moon from '../../images/moon.svg'
+import arrows from '../../images/arrows.svg'
+
 // Components
 import DesignSection from '../DesignSection/DesignSection'
 import LoginForm from '../LoginForm/LoginForm'
@@ -12,7 +16,7 @@ function LoginSection () {
     <div className={styles.container}>
       <img
         className={styles.moonImage}
-        src='/moon.svg'
+        src={moon}
       />
       <div className={styles.section}>
         <DesignSection />
@@ -22,7 +26,7 @@ function LoginSection () {
       </div>
       <img
         className={styles.arrowsImage}
-        src='/arrows.svg'
+        src={arrows}
       />
     </div>
   )

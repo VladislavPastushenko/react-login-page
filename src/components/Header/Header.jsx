@@ -1,5 +1,8 @@
 import React from 'react'
 
+// Images
+import logo from '../../images/logo.svg'
+
 // Styles
 import styles from './Header.module.css'
 import LinksTrain from '../LinksTrain/LinksTrain'
@@ -18,7 +21,7 @@ function Header () {
         <div className={styles.leftContainer}>
           <img
             className={styles.logoImage}
-            src='/logo.svg'
+            src={logo}
           />
           <a>
             /- support@mail.com
